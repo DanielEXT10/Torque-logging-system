@@ -1,0 +1,23 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+body{
+font-family: 'Lato', sans-serif;
+}
+
+.site-header{
+    background-color: #003366;
+    color: white;
+    padding: 1.3rem;
+}
+
+.site-header h1{
+    font-size: 3.5rem;
+}
+.chart-container{
+    margin: 0 auto;
+    position: relative;
+    height:600px; 
+    width:900px;
+}
